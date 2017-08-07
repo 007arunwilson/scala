@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/home/arun/.android/build-cache/bc6a57af9f15287492dc86ebeb02d4a65f19399b/output/res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/home/arun/.android/build-cache/bc6a57af9f15287492dc86ebeb02d4a65f19399b/output/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/home/arun/.android/build-cache/bc6a57af9f15287492dc86ebeb02d4a65f19399b/output/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/home/arun/.android/build-cache/bc6a57af9f15287492dc86ebeb02d4a65f19399b/output/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
+    }
+]

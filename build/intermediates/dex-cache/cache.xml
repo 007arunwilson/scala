@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/c04307c9b359fa92ea88f36e91d51fad49a0d968/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_c248a02a2fddc81d1ba860cdc19147f858776570.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/c77b220c4ccbd57012eed34037e0790e39530e66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_2696d04a11697411eccf20ce1a128af29b2257da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/20918cd8f6a6d7178297ed6474106fcf186762b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_9ad93ec06ff8dd9b43a961c7429c1b4def912909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/1a9dd15005bf484c59ab48208ae7ac1df13f89bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_49bcf3edf9cae19a767534c8999b2a6ac7a8a9e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/deee6b94353126ef493d56cd486bdfdc0242aba8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_7cb4341cc47b269243c43b92da8b8b8e03ac52bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/afcaf5f691b904c082b353a7f174113016ef5361/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_2ee95801f96b9bda1d4f5cdd127c3387151d09fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/c5d131cd2333435f934fdfe7b9e3879f42e3e2bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_bf687c1e2fc2bd417ca469115b941b858439028a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/32a1faa163dd55480fa49cb92d78c58d34808cea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_9477f494f8961d752ca2d17fedbeb23a6bd9cd4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/41aa5849aa05f5a2553ac460ab2b7696b1e21e1e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_e87cd3e54fcf921f94c5e3a5cf45de0cb1b5d27b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/cfc616a7bc03b305825994bcc5dcb4cbaa6dcb97/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_3ab5da4b038a2a6015b985a0cb65728dde757ae7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/71af068ba16aa8acbb2789625955691dd3c34a8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_d1cc11e50bd846de55c0f6b7d2fc04ef92976a6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/ed891b977e9e34911f7ea79b2c73a50c4f4f296a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_a37c55f58aaeedc840ea76bb38d78f10907572b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/74761c413e198d8070203532b455027f9fa40568/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_72162128d755d556e203f4754e5a2681804204dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/182beb9ffdc5491092c191252e5326384507b2bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_5eae3394d115fcf72ab1f4d532ee0d49901b8fc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/3df4d353448edefaf0d16326db6246fbf4603d74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_016463e1dfa7b6ce1480cfe7099c504020e59daf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/2e759b1d76e5da983b12b729a832761ce9d4c3f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_a10b1fa902c697207e92f9115c9e814181e2fd31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/9dc0c71bc7f30f9cdf52209a6ae97e9d0b8b8a2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_60a0919fb0549edc47615e145d1a4e8e203dbc24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/824dbaf86b21bb18c829d8075a284a5a5a438e9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_6fd3c9dc2834ae96d86239ef021db33f9c2fbd45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/9bba660f7aa70ddef6aef882759358697c4a38f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_45e1f3fe6c179c7ff914d3a523eac02f0b7616a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/f60676a281e0530a1bd33147b593d1c4b33c1c4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_4281ab8b632b0d051eeb16ed8335f021788de545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/7e5ffedc3b2f426d11d62b64486adee82d4161ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_a83296a71c37962625a4af57f229b6c6e894f6b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/d13cd81155134bb333935b9164049eba7ee3e348/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_9bbda48f71529e9c89bafa8c29e1436ff97e284e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/ed891ebdc6f490e5ce4ce6daf5549e69733b18cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_e47551db367c83fbb3ba83f599f80e8ee9603ae2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/6e7be1493845623c7fe2b42fe1808cdf33724344/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_59ffea877ea777d7769e45c8a7dd372cb9a5d30b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/d882f297630cea83d446da1b487ea7c1011a0f14/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_f5784d409a8a43fa2f111ca049760f6bd64bd315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/700aef122a0a524fa7fbce351110f8e91ac6751c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_4e8ae2407bae153931447a23ca5b690a6a0583cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/15efbd57a1435c74273b7f2cbf5230bb170590b4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_24568ab41d8745872934d38e046eed453cf4750f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/437425a07a49d9577591ea4d19e78971222ebfbd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_deb229877abc03c6755fdfe9ac5ce076930d3fd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/a5fd2d4c9b218bff9cadeff2975756b3b24e0155/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_9cae81f9192adc30cc9998a67fd0d32bfc993ccd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/8376f9e652ed5ba18c8b614a5f5cb37c22cb8cf7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_ba2289df09828ded2a1b0da7bb38f7a43ca7d970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/9a4558a9c12d3deb00b627085b1f8f7557f2f8c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_e90759f4e08f05ead8aeb6eee7708c68cced425a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/b26d33bd88b079231fd1bd9fd9489b6233e72c6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_bfdb2766be6c9f2aff9e1c213641a0a86e6f10fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/8a86c12bbe301e91aff623ef2b29dad4658fb5b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_11ef4c9a8ef784dd7f35beb01c298a7de98df07d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/bc6a57af9f15287492dc86ebeb02d4a65f19399b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_20311074f0238364f18a7d4cfb8bff37d958a8ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/73e28fc39cf64dee1ef71bd7206e1127c92d5576/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_3d2ff5fc2091e8ea7913e45688faa19dfcbf7a21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/94b09837b7879a2aeab325ba98fc80cd7aee890f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_df18b875a66d7c8c7f124dd02abdaaecbc6d7e4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/dda472ed54c8c285eebcef0266b1301f9f9ec84c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_859300c3a340862722f6b4123f1d99ba6f3ee69d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/3f0491e3a01488042d53f86a9915a0b82dff6be0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_32ea0a0c087f61535380034a2044b613d582630e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/da40983ee7b3a9922c1e287657e32285189cc99b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_190aa32d5e09d6b896d48f94fe47e6a8e5c51ada.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/c381e5cad24107d7fe5defedeb6e8b3bc7ccf74e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_c93f640d2b843248d4fcbfc83a1a71bfdd796620.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/6addde23d4919759724d04000ce171ab92ac6b38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_7fd10022b7356833be80f07817392450fd0561ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/f4d279489fd6cd08dc32649d0a46836908761dbc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_ed304305011399d1cc0670926af36c1fdcc3ec9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/6a321861c26aee1c23f65ffcc7a5d1664848d854/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_8cdd2484ed92442cf6aa118ab38c0a1764076d8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/e2f338e4a466073b2e42010112ed15b668d99e67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_8ca488913a328188e029899ed4cda448b9ead0d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/75bd1a84d5f11c2878e79c5bbccc2bf655d06891/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_0ed6e8cccdfb2e277a25fde996c0a205a4473d3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/bba5f2f59f0641200de32af50346c9de12d3a36d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_25907f2b2d20a34bfb78f8aa190b956d1dbc1664.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/64e583e01a64b29d9991e6eb34e8140348b2a271/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_88373ed9333bda2aafb7683708decfaee94766fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/f38c635e016dedfd8a559801b91ff9418f5c4dd3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_afa8fd65318295bcbcce653021c1f66f018e604d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/d07e47323b3816d54968d2bd05c5012a24fed4fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_1e2f0801045cad98194309d44b0f5e9c831a9475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/b30e2ad3514c79a9d2af3d991d3b39bf76778b42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_1c08ef6ebbda857e3c971dd47c551addd15b2cfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/03bcf84a7770804f1902e0b4fb95b3f852df9011/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_80d32e51a4575cbb899a13bf1f597fb13a5ac4b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/4cb654bb26706c7b8ae44e1607b678efce6738c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_f57f092e63091cedc9df1168f7e26134f815774b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_7c91c8c7338d01dfce17ea164bd439c1e33b7e1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/ea04c4ee2a5c198ceca0620648f0c357eeeda944/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_b4459f9e6c921d5c8f38432265125fab12c1192e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_97f8689235887da992efcc02e860baaba2a5dd5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/b8abd5f9c62a8228ea6ffd5373f078d5c52f59f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_c8192b1111e338dd164858a4e54dc68e38cb16bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/2a8e504ac199028841235f9a17c5254bdd3892b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_2d1ce256b10ae4278bc2fe94fca69236ebd9f707.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/cd460d9ba325f7188a4b660f3b46db89bf49ccae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_b111ec6f6be0136825ed5519be762a48bc72bf5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/d2fa22d877b9c33ef66587d83e6a8146931cf937/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_a229b8285e4f13bc8b7dae597443d01d1deec5ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/e593044008f09e5a0b6b8bfa38af9d85224923bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_43222f627a66ce7f664f1f7c0b7d4ab837e4f53c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/23b518368ece05b8f6ec4dd55c00f361712f267a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_9c1da8f242878b3398f40e450f3069a5b94dd85d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/b49e7627916252b7ffda1f977cd9756ed024c823/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_047d56277f6dec19539bab9cf3b05ba9a309c61e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/5ab020d99d6153e512527981256b206b77775474/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_a24f2db380c03b0fa9c667d581049807b7ffdf2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/cb2a23502971147914cc1dcc819ab4eb9c077b64/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_69e536629564d3a387b02786c139cacd404c1e86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/arun/.android/build-cache/fc572c8050d5e03939987c2555812ed8ed7941c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes_387f1159beace191804940e857e9165652e99622.jar" />
+    </item>
+
+</items>

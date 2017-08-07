@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/arun/.android/build-cache/afcaf5f691b904c082b353a7f174113016ef5361/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/arun/.android/build-cache/d2fa22d877b9c33ef66587d83e6a8146931cf937/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/arun/.android/build-cache/d2fa22d877b9c33ef66587d83e6a8146931cf937/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/arun/.android/build-cache/d2fa22d877b9c33ef66587d83e6a8146931cf937/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/arun/.android/build-cache/d2fa22d877b9c33ef66587d83e6a8146931cf937/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

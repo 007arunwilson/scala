@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/cast_album_art_placeholder_large.png",
+        "source": "/home/arun/.android/build-cache/cfc616a7bc03b305825994bcc5dcb4cbaa6dcb97/output/res/drawable-nodpi-v4/cast_album_art_placeholder_large.png"
+    },
+    {
+        "merged": "/home/arun/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/cast_album_art_placeholder.png",
+        "source": "/home/arun/.android/build-cache/cfc616a7bc03b305825994bcc5dcb4cbaa6dcb97/output/res/drawable-nodpi-v4/cast_album_art_placeholder.png"
+    }
+]
